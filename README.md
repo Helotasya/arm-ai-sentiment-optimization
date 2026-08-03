@@ -16,7 +16,7 @@ maintaining the same accuracy.
 ### Benchmark Results
 - Original model: ~0.07-0.20 seconds per inference
 - Optimized model (ONNX): ~0.03-0.13 seconds per inference
-- Performance improvement: 36-57% faster
+- Performance improvement: 36-68% faster
 
 ## Setup Instructions
 1. Open the sentiment_analysis_onnx_arm_optimization.ipynb file in 
